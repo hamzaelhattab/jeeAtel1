@@ -1,6 +1,5 @@
 package Metier;
 
-import Dao.DaoImp;
 import Dao.IDao;
 
 public class MetierImp implements IMetier{
