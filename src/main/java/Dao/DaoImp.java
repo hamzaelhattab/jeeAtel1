@@ -2,7 +2,7 @@ package Dao;
 
 import org.springframework.stereotype.Component;
 
-
+@Component
 public class DaoImp implements IDao{
 
     @Override
